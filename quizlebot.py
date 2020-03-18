@@ -27,42 +27,30 @@ class Quizlebot():
         login_btn.click()
 
 
-    def words(self):
-
-
-        m = 70
-        n = 1
-        for n in range (1, m):
+    def words(self,m):
+        for n in range (1, m+10):
             try:
                 frnc_word = self.driver.find_element_by_xpath('//*[@id="SetPageTarget"]/div/div[1]/div[3]/div[2]/div/div/section/div/section/div[' + str(n) + ']/div/div/div[1]/div/div[1]/div').text
                 print(frnc_word)
                 frnc_list.append(frnc_word)
             except Exception:
-                print('blad')
+                print('----null----')
 
-        for n in range (1, m):
+        for n in range (1, m+10):
             try:
                 pol_word = self.driver.find_element_by_xpath('//*[@id="SetPageTarget"]/div/div[1]/div[3]/div[2]/div/div/section/div/section/div[' + str(n) + ']/div/div/div[1]/div/div[2]/div/a/span').text
                 print(pol_word)
                 pol_list.append(pol_word)
             except Exception:
-                print('blad')
+                print('----null----')
             
     def show_array(self):
         print(pol_list)
         print(frnc_list)
 
-    def writting(self):
-        #calosc trzba jeszcze zapetlic
-        
-        end_point = len(pol_list)
-
-        for n in range (0,end_point+1):
-        
-
+    def writting(self,e):
+        for n in range (0,e+10):
             pl_check_word = self.driver.find_element_by_xpath('//*[@id="js-learnModeInner"]/div/div/div[1]/div/div/div/div/span').text 
-
-        
             if pl_check_word in pol_list:
                 index_word = pol_list.index(pl_check_word)
                 print(index_word)
@@ -75,7 +63,7 @@ class Quizlebot():
                 confirm_btn = self.driver.find_element_by_xpath('//*[@id="js-learnModeAnswerButton"]')
                 confirm_btn.click()
 
-                sleep(2)
+                sleep(1)
 
                 self.driver.find_element_by_xpath('//*[@id="js-learnModeInner"]/div[2]/button').click()
 
