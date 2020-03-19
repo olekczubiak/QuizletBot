@@ -1,5 +1,7 @@
 #nauka/quizletbot
+
 **Informacje**
+
 Jako iż prowadzący/nauczyciele zadają prace domowe na quizlecie i patrzą czy je rozwiązujemy. To jest skrypt który służy do pobrania bazy danych słówek a następnie wypełniania zadań.
 
 **Instalacja**
