@@ -48,30 +48,42 @@ class Quizlebot():
         print(pol_list)
         print(frnc_list)
 
-    def writting(self,e):
-        for n in range (0,e+10):
-            pl_check_word = self.driver.find_element_by_xpath('//*[@id="js-learnModeInner"]/div/div/div[1]/div/div/div/div/span').text 
-            if pl_check_word in pol_list:
-                index_word = pol_list.index(pl_check_word)
-                print(index_word)
+    def writting(self):
+        while True:
+            try:
+                pl_check_word = self.driver.find_element_by_xpath('//*[@id="js-learnModeInner"]/div/div/div[1]/div/div/div/div/span').text 
+                if pl_check_word in pol_list:
+                    index_word = pol_list.index(pl_check_word)
+                    print(index_word)
             
-                answer_fild = self.driver.find_element_by_xpath('//*[@id="user-answer"]')
-                frnc_answer = frnc_list[index_word]
-                answer_fild.send_keys(frnc_answer)
-                sleep(1)
+                    answer_fild = self.driver.find_element_by_xpath('//*[@id="user-answer"]')
+                    frnc_answer = frnc_list[index_word]
+                    answer_fild.send_keys(frnc_answer)
+                    sleep(1)
 
-                confirm_btn = self.driver.find_element_by_xpath('//*[@id="js-learnModeAnswerButton"]')
-                confirm_btn.click()
+                    confirm_btn = self.driver.find_element_by_xpath('//*[@id="js-learnModeAnswerButton"]')
+                    confirm_btn.click()
 
-                sleep(1)
+                    sleep(1)
 
-                self.driver.find_element_by_xpath('//*[@id="js-learnModeInner"]/div[2]/button').click()
-
+                    self.driver.find_element_by_xpath('//*[@id="js-learnModeInner"]/div[2]/button').click()
+            except Exception:
+                print('---end---')
+                break
 
 
     def web(address):
         pass
     
+    def save(self):
+        
+        all_list = []
+        for n in range (0,len(pol_list)):
+            all_list.append(pol_list[n] + ' - ' + frnc_list[n]) 
+
+        with open('plik.txt', 'w') as f:
+            for item in all_list:
+                f.write(item + '\n')                    
 
     def door(self):
         self.driver.close()
