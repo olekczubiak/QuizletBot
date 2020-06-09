@@ -1,0 +1,758 @@
+matka - la mère
+mama - la maman
+ojciec - le père
+tata - le papa
+rodzice - les parents
+para - un couple
+rodzina - une famille
+dziecko - un enfant
+córka, dziewczyna - une fille
+syn - un fils
+żona, kobieta - la femme
+mąż - le mari
+siostra - une soeur
+brat - un frère
+babcia - une grand-mère
+dziadek - un grand-père
+dziadkowie - des grands-parents
+wnuki - des petits-enfants
+wnuczek - un petit-fils
+wnuczka - une petite-fille
+teściowie - les beaux-parents
+teściowa, macocha - la belle-mère
+teść, ojczym - le beau-père
+bratowa, siostra przyrodnia - une belle-soeur
+szwagier, brat przyrodni - un beau-frère
+synowa, pasierbica - une belle-fille
+zięć - un gendre
+ciotka - une tante
+wujek - un oncle
+kuzyn - un cousin
+kuzynka - une cousine
+babunia - une mamie, mémé
+dziadziuś - un papie, pépé
+jedynak - un enfant unique
+bliźniacy - des jumeaux
+bliźniaczki - des soeurs jumelles
+krewny - un parent
+siostrzenica, bratanica - la nièce
+siostrzeniec, bratanek - un neveu
+żonaty - marié
+mężatka - mariée
+rozwód - un divorce
+ślub - un mariage
+rozwiedziony(a) - divorcé(e)
+wdowiec - un veuf
+wdowa - une veuve
+narzeczony(a) - un(e) fiancé(e)
+nazywać się - s'appeler
+mieszkać - habiter
+pracować - travailler
+mówić - parler
+kochać, lubić - aimer
+uczyć się, studiować - étudier
+nie znosić - détester
+uwielbiać - adorer
+słuchać - écouter
+tańczyć - danser
+śpiewać - chanter
+patrzeć - regarder
+przygotowywać - préparer
+przynosić - apporter
+proponować - proposer
+przedstawiać - présenter
+przedstawić się - se présenter
+podróżować - voyager
+Jak się nazywasz? - Comment tu t'appelles?
+Jak się Pan/Pani nazywa? - Comment vous vous appelez?
+Przedstawiam Panu /Pani mojego narzeczonego. - Je vous présente mon fiancé.
+Mieszkam we Wrocławiu. - J'habite à Wrocław.
+Ona mieszka w Polsce. - Elle habite en Pologne.
+Gdzie mieszkasz? - Où habites-tu?
+Gdzie mieszkają twoi rodzice? - Où habitent tes parents?
+Pracuję w firmie komputerowej. - Je travaille dans une entreprise informatique.
+Gdzie pracujesz? - Où travailles-tu?
+On pracuje w Danone. - Il travaille chez Danone.
+Przygotowujemy kolację. - Nous préparons le dîner.
+Lubię francuskie kino. - J'aime le cinéma français.
+Czy lubisz sport? - Aimes-tu le sport?
+Mój kolega ogląda sport w telewizji. - Mon collègue regarde le sport à la télévision.
+Ona słucha wiadomości w radiu. - Elle écoute des informations à la radio.
+On dobrze tańczy. - Il danse bien.
+Czy mówi Pan/Pani po niemiecku? - Parlez-vous allemand?
+Mówię po angielsku i trochę po hiszpańsku. - Je parle anglais et un peu espagnol.
+Ona fałszuje. - Elle chante faux.
+Czy ty oglądasz amerykańskie seriale na Netflixie? - Tu regardes des séries américaines sur Netfix?
+Nie znoszę owoców morza. - Je déteste les fruits de mer.
+Uczę się francuskiego. - J'étudie le français.
+1 - un
+2 - deux
+3 - trois
+4 - quatre
+5 - cinq
+6 - six
+7 - sept
+8 - huit
+9 - neuf
+10 - dix
+11 - onze
+12 - douze
+13 - treize
+14 - quatorze
+15 - quinze
+16 - seize
+17 - dix-sept
+18 - dix-huit
+19 - dix-neuf
+20 - vingt
+21 - vingt et un
+30 - trente
+40 - quarante
+50 - cinquante
+60 - soixante
+71 - soixante et onze
+70 - soixante-dix
+80 - quatre-vingts
+81 - quatre-vingt-un
+90 - quatre-vingt-dix
+91 - quatre-vingt-onze
+100 - cent
+1000 - mille
+1 000 000 - un million
+1 000 000 000 - un milliard
+500 - cinq cents
+Francja - la France
+Francuz / Francuzka - français/ française
+Polska - la Pologne
+Polak /Polka - polonais / polonaise
+Niemcy - l'Allemagne
+Niemiec/Niemka - allemand / allemande
+Anglia - l'Angleterre
+Anglik /Angielka - anglais/ anglaise
+Hiszpania - Espagne
+Hiszpan / Hiszpanka - espagnol / espagnole
+Holandia - les Pays-Bas
+Holender /Holenderka - néerlandais / néerlandaise
+Chiny - la Chine
+Chińczyk / Chinka - chinois / chinoise
+Japonia - le Japon
+Japończyk / Japonka - japonais / japonaise
+Rosja - la Russie
+Rosjanin /Rosjanka - russe
+Ukraina - l'Ukraine
+Ukrainiec / Ukrainka - ukrainien /ukrainienne
+Hiszpania - l'Espagne
+Hiszpan / Hiszpanka - espagnol /espagnole
+Włochy - l'Italie
+Włoch / Włoszka - italien / italienne
+Stany Zjednoczone - les États -Unis
+Amerykanin / Amerykanka - américain / américaine
+Belgia - la Belgique
+Belg / Belgijka - belge
+Szwajcaria - la Suisse
+Szwajcar / Szwajcarka - suisse
+Szwecja - la Suède
+Szwed / Szwedka - suédois /suédoise
+Portugalia - le Portugal
+Portugalczyk / Portugalka - portugais / portugaise
+Białoruś - la Biélorussie
+Białorusin /Białorusinka - biélorusse
+Kanada - le Canada
+Kanadyjczyk / Kanadyjka - canadien /canadienne
+Indie - l'Inde
+Hindus /Hinduska - indien /indienne
+Grecja - la Grèce
+Grek /Greczynka - grec /grecque
+jestem - je suis
+jesteś - tu es
+on jest - il est
+ona jest - elle est
+jesteśmy - nous sommes
+jesteście - vous êtes
+oni są - ils sont
+one są - elles sont
+mam - j'ai
+masz - tu as
+on ma - il a
+ona ma - elle a
+mamy - nous avons
+macie - vous avez
+oni mają - ils ont
+one mają - elles ont
+idę - je vais
+idziesz - tu vas
+on idzie - il va
+ona idzie - elle va
+idziemy - nous allons
+idziecie - vous allez
+oni idą - ils vont
+one idą - elles vont
+robię - je fais
+robisz - tu fais
+on robi - il fait
+ona robi - elle fait
+robimy - nous faisons
+robicie - vous faites
+oni robią - ils font
+one robią - elles font
+ja biorę - je prends
+ty bierzesz - tu prends
+on bierze - il prend
+ona bierze - elle prend
+my bierzemy - nous prenons
+wy bierzecie - vous prenez
+oni biorą - ils prennent
+one biorą - elles prennent
+być - être
+mieć - avoir
+iść, jechać - aller
+robić - faire
+brać - prendre
+jeść śniadanie - prendre le petit déjeuner
+janvier - styczeń
+février - luty
+mars - marzec
+avril - kwiecień
+mai - maj
+juin - czerwiec
+juillet - lipiec
+août - sierpień
+septembre - wrzesień
+octobre - październik
+novembre - listopad
+décembre - grudzień
+les mois de l'année - miesiące roku
+les jours de la semaine - dni tygodnia
+lundi - poniedziałek
+mardi - wtorek
+mercredi - środa
+jeudi - czwartek
+vendredi - piątek
+samedi - sobota
+dimanche - niedziela
+la date - data
+Quelle est la date d'aujourd'hui? - Jaką mamy dzisiaj datę?
+Aujourd'hui, c'est (nous sommes) le premier avril. - Dzisiaj jest pierwszy kwietnia.
+Aujourd'hui, c'est (nous sommes) le doux avril. - Dzisiaj jest drugi kwietnia.
+Quelle est ta/votre date de naissance?/Tu es né(e) quand?/Vous êtes né(e) quand? - Kiedy masz urodziny?
+Je suis né(e) le premier octobre 1995. - urodziłem się pierwszego października 1995.
+Je suis né(e) en octobre/en 1995. - urodziłem się w październiku/w 1995.
+Je suis né(e) au XX(e) siècle. - urodziłem się w XX w.
+lundi - (w) ten poniedziałek
+le lundi - (w) każdy poniedziałek
+un lundi - (w) jakiś poniedziałek
+en janvier - w styczniu
+les saisons - pory roku
+le printemps - wiosna
+au printemps - wiosną
+l'été - lato
+en été - latem
+l'automne - jesień
+en automne - jesienią
+l'hiver - zima
+en hiver - zimą
+Quel temps fait-il? - Jaka jest pogoda?
+Il fait beau - jest ładna pogoda
+Il fait mauvais. - jest zła pogoda
+il fait chaud - jest gorąco
+il fait froid - jest zimno
+il y a du soleil - jest słonecznie
+Il y a du vent - jest wiatr
+Il y a de la pluie - jest deszcz
+il y a de l'orage - jest burza
+il y a du brouillard - jest mgła
+Il y a des nuages - są chmury
+il pleut - pada deszcz
+il neige - pada śnieg
+il gèle - jest mróz
+Le ciel est bleu et clair - niebo jest niebieskie i czyste
+Le ciel est gris et couvert (nuageux) - niebo jest szare i zachmurzone.
+Il fait trois degrés - Jest trzy stopnie.
+Il fait moins trois degrés. - jest minus trzy stopnie.
+le nord - północ
+le sud - południe
+l'est - wschód
+l'ouest - zachód
+le centre - centrum
+Wrocław est situé dans le sud-ouest de la Pologne. - Wrocław jest usytuowany na południowym-zachodzie Polski.
+le sud-ouest - południowy zachód
+le sud-est - południowy wschód
+le nord-est - północny wschód
+le nord-ouest - północny zachód
+Quelle heure est-il? - Która jest godzina?
+à quelle heure? - O której godzinie?
+du matin - rano
+le matin - poranek
+midi - południe (czas)
+de l'après-midi - po południu
+l'après-midi - popołudnie
+le soir - wieczór
+du soir - wieczorem
+le quart d'heure - kwadrans
+demie - pół
+moins - minus
+aujourd'hui - dzisiaj
+hier - wczoraj
+demain - jutro
+avant-hier - przedwczoraj
+après-demain - pojutrze
+il y a deux jours - dwa dni temu
+dans deux jours - za dwa dni
+la semaine prochaine - w przyszłym tygodniu
+le mois prochain - w przyszłym miesiącu
+l'année prochaine - w przyszłym roku
+la semaine dernière - w zeszłym tygodniu
+le mois dernier - w zeszłym miesiącu
+l'année dernière - w zeszłym roku
+je suis - ja jestem
+tu es - ty jesteś
+il/elle est - On/ona jest
+nous sommes - my jesteśmy
+vous êtes - wy jesteście
+ils/elles sont - oni/one są
+J'ai - ja mam
+tu as - ty masz
+Il/elle a - On/ona ma
+nous avons - my mamy
+vous avez - wy macie
+ils/elles ont - oni/one mają
+Je vais - ja idę
+Tu vas - ty idziesz
+Il/elle va - On/ona idzie
+nous allons - my idziemy
+vous allez - wy idziecie
+ils/elles vont - Oni/one idą
+je fais - ja robię
+tu fais - ty robisz
+il/elle fait - On/ona robi
+nous faisons - my robimy
+vous faites - Wy robicie
+ils/elles font - oni/one robią
+je bois - ja piję
+tu bois - ty pijesz
+il/elle boit - On/ona pije
+nous buvons - my pijemy
+vous buvez - wy pijecie
+ils/elles boivent - oni/one piją
+je mange - ja jem
+tu manges - ty jesz
+Il/elle mange - On/ona je
+nous mangeons - my jemy
+vous mangez - Wy jecie
+Ils/elles mangent - oni/one jedzą
+je prends - ja biorę
+tu prends - ty bierzesz
+Il/elle prend - On/ona bierze
+nous prenons - my bierzemy
+vous prenez - wy bierzecie
+Ils/elles prennent - oni, one biorą
+être - być
+avoir - Mieć
+aller - iść, jechać
+Faire - robić, uprawiać
+prendre - brać
+comprendre - rozumieć
+apprendre, étudier - uczyć się
+boire - Pić
+parler - mówić
+Aimer - lubić, kochać
+Regarder - Oglądać
+Chanter - Śpiewać
+danser - tańczyć
+travailler - pracować
+chercher - szukać
+trouver - znaleźć
+préparer - przygotować
+rencontrer - spotykać
+détester - nieznosić
+rester - zostać
+jouer - grać
+adorer - uwielbiać
+écouter - słuchać
+habiter - mieszkać
+inviter - zapraszać
+manger - jeść
+voyager - podróżować
+s'appeler - nazywać się
+se réveiller - budzić się
+se coucher - kłaść się spać
+se laver - myć się
+s'habiller - ubierać się
+acheter - kupować
+préférer - woleć
+autobus - le bus
+metro - le métro
+motocykl - la moto
+skuter - le scooter
+taksówka - le taxi
+pociąg - le train
+tramwaj - le tramway
+rower - le vélo
+samochód - la voiture
+pieszo - à pied
+tandem - le tandeme
+statek - le bâteau
+prosto - tout droit
+w prawo - à droite
+w lewo - à gauche
+tutaj - ici
+tam - là-bas
+blisko stąd - près d'ici
+daleko stąd - loin d'ici
+fryzjer/fryzjerka - coiffeur/coiffeuse
+pielęgniarz/pielęgniarka - infirmier/infirmière
+lekarz/lekarka - médecin
+farmaceuta/farmaceutka - pharmacien/pharmacienne
+nauczyciel/nauczycielka - professeur/professuere
+listonosz/listonoszka - facteur/factrice
+informatyk/informatyczka - informaticien/informaticienne
+dziennikarz/dziennikarka - journaliste
+tłumacz/tłumaczka - traducteur/traductrice
+muzyk/muzyczka - musicien/musicienne
+fotograf/fotografka - photographe
+inżynier/inżynierka - ingénieur/ingénieuse
+animator/animatorka - animateur/animatrice
+architekt/architektka - architecte
+ulica - la rue
+aleja - une avenue
+bulwar - le boulevard
+skrzyżowanie - le carrefour
+rzeka (wpadająca do morza) - le fleuve
+rzeka (dopływ) - la rivière
+most - le pont
+nabrzeże - le quai
+droga - la voie
+droga - le chemin
+katedra - la cathédrale
+kościół - une église
+wieża - la tour
+muzeum - le musée
+park miejski - le jardin public
+plac - la place
+historyczne serce - le cœur historique
+miasto - la ville
+miasteczko - le village
+dzielnica - le quartier
+opera - un opéra
+bank - la banque
+biblioteka - la bibliothèque
+centrum miasta - le centre-ville
+szkoła - une école
+dworzec kolejowy - la gare
+ratusz - la mairie
+policja - la police
+poczta - la poste
+teatr - le théâtre
+teren kampusu uniwersyteckiego - le site universitaire
+wydział - la fac
+uniwersytet - une université
+biuro - le bureau
+praca - le travail
+hotel - un hôtel
+szpital - un hôpital
+dzielnica - un arrondissement
+park - le parc
+restauracja - un restaurant
+zabytek - un monument
+przystanek - un arrêt
+stacja - la station
+budynek - un bâtiment
+targ - un marché
+pchli targ - un marché aux puces
+pchli targ w Lille - la Braderie de Lille
+informacja turystyczna - un office du tourisme
+zwiedzać - visiter
+pracować - travailler
+odkryć - découvrir
+iść, jechać - aller
+maszerować - marcher
+kontynuować - continuer
+przechodzić - passer
+szukać - chercher
+skręcać - tourner
+brać - prendre
+wysiadać - descendre
+rozprowadzać - distribuer
+działać - fonctionner
+jechać - rouler
+wracać - rentrer
+używać, stosować - utiliser
+przychodzić - venir
+spotykać - rencontrer
+oglądać - regarder
+wysyłać - envoyer
+przygotowywać - préparer
+pytać, prosić - demander
+wyjaśniać - expliquer
+mieszkaniec - un habitant
+miejsca użyteczności - un lieu utile
+we wszystkie dni - tous les jours
+każdego dnia - chaque jour
+w - dans
+liczba - une chiffre
+przecinek - un virgule
+dlaczego - pourquoi
+ponieważ - parce que
+historia - une histoire
+aż do - jusqu'à
+kilometr kwadratowy - un kilomètre carré
+mapa - la carte
+ulotka turystyczna - un document touristique
+przyjęcie - un acceuil
+kierunek - la direction
+sms - un sms
+sms - un texto
+serwis - le service
+linia - la ligne
+godzina - une heure
+zwiedzający - un visiteur
+na dzień - par jour
+To jest... - Ça, c'est...
+Widzicie? - Vous voyez?
+targ - le marché
+rzeźnik - la boucherie
+piekarnia - la boulangerie
+sklep z serami - la fromagerie
+sklep rybny - la poissonnerie
+warzywniak - le primeur
+sklep z wędlinami - la charcuterie
+kasy - les caisses
+dział - le rayon
+wejście - l'entrée
+dział z produktami mlecznymi - le rayon des produits laitiers
+supermarket - un supermarché
+sklep - un magasin
+owoc - un fruit
+warzywo - un légume
+truskawka - une fraise
+cytryna - un citron
+pomarańcza - une orange
+winogrono - un raisin
+jabłko - une pomme
+brzoskwinia - une pêche
+banan - une banane
+ananas - un ananas
+gruszka - une poire
+pomidor - une tomate
+marchewka - une carrotte
+papryka - un poivron
+sałata - une salade
+ziemniak - une pomme de terre
+por - un poireau
+cebula - une oignon
+czosnek - un ail
+cukinia - une courgette
+pietruszka - un persil
+dynia - une citrouille
+ogórek - un concombre
+malina - une framboise
+restauracja - un restaurant
+klub - un club
+bar - un bar
+bistro - un bistrot
+danie dnia - un plat du jour
+danie - un plat
+przystawka - une entrée
+deser - un dessert
+napój - une boisson
+śniadanie - un petit-déjeuner
+obiad - un déjeuner
+kolacja - un dîner
+karta - une carte
+zestaw - un menu
+zestaw - une formule
+podsumowanie - le total
+napiwek - un pourboire
+zamówienie - une commande
+sprzedawca warzyw i owoców - un primeur
+sprzedawca/sprzedawczyni - un marchand/une marchande
+rzeźnik/rzeźniczka - un boucher/une bouchère
+piekarz/piekarka - un boulanger/une boulangère
+sprzedawca serów/sprzedawczyni serow - un fromager/une fromagère
+sprzedawca ryb/sprzedawczyni ryb - un poissonier/une poissonnière
+sprzedawca wędlin/sprzedawczyni wędlin - un charcutier/une charcutière
+kasjer/kasjerka - un caissier/une caissière
+klient/klientka - un client/une cliente
+kelner/kelnerka - un serveur/une serveuse
+bagietka - une baguette
+chleb - un pain
+rogalik - un croissant
+tarta - une tarte
+ser camembert - un camembert
+ryba - un poisson
+owoc morza - un fruit de mer
+mięso - une viande
+ser - un fromage
+masło - un beurre
+jogurt - un yaourt
+mleko - un lait
+śmietana - une crème fraîche
+bułeczka z czekoladą - un pain au chocolat
+jajko - un œuf
+masło arachidowe - Un beurre d'arachide
+pasta arachidowa - une pâte d'arachide
+ciasto - un gâteau
+tuńczyk - un thon
+musztarda - une moutarde
+majonez - un mayonnaise
+ketchup - un ketchup
+sól - un sel
+pieprz - un poivre
+cukier - un sucre
+syrop klonowy - un sirop d'érable
+ślimak - un escargot
+frytka - une frite
+makaron - des pâtes
+mus czekoladowy - une mousse au chocolat
+sałatka - une salade
+mięso mielone - une viande hachée
+ocet - un vinaigre
+olej - une huile
+sos - une sauce
+produkt - un produit
+produkt spożywczy - un aliment
+żywność - la nourriture
+kanapka - un sandwich
+kanapka z szynką i masłem - un sandwich jambon-beurre
+kanapka z serem i masłem - un sandwich formage-beurre
+jajecznica - des œufs brouillés
+jajko na miękko - un œuf à la coque
+jajko na półtwardo - un œuf mollet
+jajko na twardo - un œuf dur
+jajko sadzone - un œuf sur le plat
+kanapka z kurczakiem i warzywami - un sandwich poulet-crudités
+omlet naturalny - une omelette nature
+omlet z serem - une omelette au fromage
+omlet z szynką - une omelette au jambon
+zupa mleczna - une soupe au lait
+chleb w jajku - un pain perdu
+płatki śniadaniowe - des céréales
+owsianka - une bouillie d'avoine
+ryżowianka - une bouillie de riz
+grysik - une bouillie de semoule
+grysik na mleku - une semoule au lait
+z suszonymi owocami - avec des fruits sec
+z orzechami - avec des noix
+z miodem - avec du miel
+z kokosem - avec du coco
+z migdałami - avec des amandes
+z daktylami - avec des dattes
+z rodzynkami - avec des raisons secs
+parówka - une sauccise de Vienne
+frankfurterka - une saucisse de Francfort
+słodkie produkty piekarnicze - une viennoiserie
+karta kredytowa - une carte de crédit
+karta bankowa - une carte bancaire
+karta płatnicza - une carte bleue
+czek - un chèque
+gotówka - les espèces
+moneta - une pièce
+banknot - un billet
+rachunek - une addition
+płacić - payer
+musieć, mieć powinność - devoir
+sposób płatności - le moyen de paiement
+pieniądze - de l'argent
+kosztować - coûter
+chcieć, żądać - vouloir
+sympatyczny/sympatyczna - sympa
+przyjemny/przyjemna - agréable
+nieprzyjemny/nieprzyjemna - désagréable
+dobry/dobra - bon/bonne
+zły/zła - mauvais/mauvaise
+ładny/ładna - joli/jolie
+paskudny/paskudna - moche
+grzeczny/grzeczna - poli/polie
+niegrzeczny/niegrzeczna - malpoli/malpolie
+genialny/genialna - génial/géniale
+niesympatyczny/niesympatyczna - pas sympa
+pozytywny/pozytywna - positif/positive
+negatywny/negatywna - négatif/négative
+kawa - un café
+herbata - un thé
+sok - un jus
+wino - un vin
+wytrawny - sec
+półwytrawny - demi-sec
+słodki - doux
+półsłodki - demi-doux
+woda - une eau
+woda mineralna - une eau minérale
+gazowany/gazowana - gazeux/gazeuse
+niegazowany/niegazowana - plat/plate
+syrop - un sirop
+napój gazowany - un soda
+kawa ze śmietanką - un café crème
+cola - un coca
+sok wyciskany z pomarańczy - une orange pressée
+biały/biała - blanc/blanche
+różowy/różowa - rosé/rosée
+czerwony/czerwona - rouge
+piwo - une bière
+jasny/jasna - blond/blonde
+ciemny/ciemna - brun/brune
+talerz - une assiette
+widelec - une fourchette
+nóż - un couteau
+łyżka - une cuillère
+łyżeczka - une petite cuillère
+szklanka, kieliszek - un verre
+serwetka - une serviette
+rondel - une casserole
+piekarnik - un four
+ubijaczka - un fouet
+płacić - payer
+kupować - acheter
+robić - faire
+jeść - manger
+zaczynać - commencer
+kończyć - terminer
+kroić - couper
+zagotować - faire bouillir
+mieszać - mélanger
+nagrzać - préchauffer
+wyjaśniać - expliquer
+opowiadać - raconter
+szklanka - un verre
+filiżanka - une tasse
+butelka - une bouteille
+słoik - un pot
+paczka - un paquet
+puszka - une boîte
+tubka - un tube
+flakon - un flacon
+torebka - un sac
+saszetka - un sachet
+kromka - une tranche
+plasterek - une rondelle
+kawałek - un morceau
+część - une part
+tabliczka - une tablette
+kostka - une plaquette
+pęczek - une botte
+tuzin - une douzaine
+funt - une livre
+litr - un litre
+kilogram - un kilo
+gram - un gramme
+garść - une poignée
+szczypta - une pincée
+trochę - un peu de
+dużo - beaucoup de
+pojemnik - une barquette
+stopień - un degré
+klient/klientka - un client/une cliente
+plakat - une affiche
+otwarty/otwarta - ouvert/ouverte
+zamknięty/zamknięta - fermé/fermée
+robić zakupy - faire des courses
+robić zakupy - faire des achats
+rodzina - une famille
+składnik - un ingrédient
+lista - une liste
+zdjęcie - une photo
+stereotyp - un cliché
+godzina - une heure
+minuta - une minute
+ważny/ważna - important/importante
+stół - une table
